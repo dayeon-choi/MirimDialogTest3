@@ -24,28 +24,28 @@
         <RadioButton
             android:id="@+id/rad_dog"
             android:layout_weight="1"
-            android:layout_width="0dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="강아지"
             />
         <RadioButton
             android:id="@+id/rad_cat"
             android:layout_weight="1"
-            android:layout_width="0dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="고양이"
             />
         <RadioButton
             android:id="@+id/rad_rabit"
             android:layout_weight="1"
-            android:layout_width="0dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="토끼"
             />
         <RadioButton
             android:id="@+id/rad_horse"
             android:layout_weight="1"
-            android:layout_width="0dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="말"
             />
