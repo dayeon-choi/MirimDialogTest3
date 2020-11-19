@@ -36,7 +36,7 @@
             android:text="고양이"
             />
         <RadioButton
-            android:id="@+id/rad_rabit"
+            android:id="@+id/rad_rabbit"
             android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
